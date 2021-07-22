@@ -1,4 +1,4 @@
-#This POC can be used for Login Registration and dashboard as per requirements given by TrueDataSoft HR.
+#This POC can be used for Login Registration and dashboard as per requirements give.
 #Specifications:
 #1. Latest dot net version 5.0 is used
 #2. 
